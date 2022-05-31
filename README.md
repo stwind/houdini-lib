@@ -1,7 +1,7 @@
 ## Setup
 
-Add the following line to `~/Library/Preferences/houdini/<VERSION>/houdini.env`
+Add the following line to `~/Library/Preferences/houdini/<HOUDINIVERSION>/houdini.env`
 
 ```sh
-PYTHONPATH="<REPO_DIR>"
+PYTHONPATH="<PATH_TO_PROJECT_DIR>"
 ```
